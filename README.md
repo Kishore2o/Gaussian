@@ -11,7 +11,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 1. Get the input from the user
 2. The rows and columns can be defined by n,n+1
 3. Declearing the range value for the matrix
-4. Printing the output
+4. Print the output
 
 ## Program:
 ```
@@ -47,10 +47,8 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian 3](https://user-images.githubusercontent.com/118679883/212273103-bb44c341-5b71-4ff7-a5c4-879ed7146ce5.png)
-![gaussian 4](https://user-images.githubusercontent.com/118679883/212273160-63db226f-f1ca-4e05-9fba-bf9a032e418e.png)
-
-
+![OUTPUT](./images/gaussian 3.png)
+![OUTPUT](./images/gaussian 4.png)
 
 
 ## Result:
