@@ -47,8 +47,9 @@ for i in range(n):
 ```
 
 ## Output:
-![OUTPUT](./images/gaussian 1.png)
-![OUTPUT](./images/gaussian 2.png)
+![gaussian 1](https://user-images.githubusercontent.com/118679883/212272435-7fbb98ee-1c1d-4e92-bf4f-7a179270d8a6.png)
+![gaussian 2](https://user-images.githubusercontent.com/118679883/212272532-67c1e4d8-a98e-4162-a450-de401f997fce.png)
+
 
 
 ## Result:
